@@ -1,0 +1,34 @@
+.main-content {
+    display: flex;
+    margin: 20px;
+}
+
+/* Asides */
+.left-aside, .right-aside {
+    background-color: lightgray;
+    padding: 20px;
+    width: 25%;
+}
+
+.left-aside {
+    margin-right: 20px;
+}
+
+.right-aside {
+    margin-left: 20px;
+}
+
+/* Main content */
+main {
+    background-color: lightyellow;
+    padding: 20px;
+    width: 50%;
+}
+
+/* Footer */
+.page-footer {
+    background-color: lightcoral;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
